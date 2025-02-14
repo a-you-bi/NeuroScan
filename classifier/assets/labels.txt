@@ -1,0 +1,10 @@
+banana
+cauliflower
+corn
+kiwi
+potato
+watermelon
+cat
+dog
+tomato
+human
