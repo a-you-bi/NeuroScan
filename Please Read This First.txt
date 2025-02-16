@@ -1,0 +1,41 @@
+--------------------------------------------------------------------------------NeuroScan-------------------------------------------------------------------------------
+
+in this project you have 3 files:
+
+- classifier is the app files flutter/dart including AI Model.
+- UI is a simple vedio that you may need to use it in your desgne.
+- Test is a fonder of images that you can try it whle testing the app
+
+Warnning:
+- is you wanna try other images, please make sure that its respect this.
+1. Clear image 
+2. Hight Quality
+3.one animal per image
+4. dont use complex images, because the dataset is too smal at the moment
+
+about the dataset:
+
+-dataset is 20 classes of difernet animals, each calsse contains 60 images.
+-the classes as following: 
+
+an Antelope
+a Badger
+a Bat
+a Bear
+a Bee
+a Bison
+a Boar
+a Cat
+a Chimpanzee
+a Cow
+a Crab
+a Crow
+a Dog
+a Duck
+a Fox
+an Elephant
+a Goat
+a Hamster
+a Horse
+a Wolf
+ 
